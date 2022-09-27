@@ -1,0 +1,18 @@
+h1 {
+	color: skyblue;
+}
+
+h2 {
+	color: whitesmoke;
+	background-color: darkblue;
+	font-size: 72px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p {
+	text-align: justify;
+}
